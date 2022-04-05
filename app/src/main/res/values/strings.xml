@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MISSION1</string>
+    <string name="favorite">노는게 제일 좋아</string>
+    <string name="play">놀러 가기</string>
+    <string name="edTXT">댓글</string>
+    <string name="say">말 걸기</string>
+</resources>
